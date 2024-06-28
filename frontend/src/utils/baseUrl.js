@@ -1,3 +1,3 @@
-const baseUrl = "https://entertainment-x25p.onrender.com/"
+const baseUrl = "https://entertainment-web-app-3adk.onrender.com"
 
 export default baseUrl;
