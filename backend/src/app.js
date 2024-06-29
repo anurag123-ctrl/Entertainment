@@ -31,7 +31,7 @@ app.use("/api", userRouter);
 // home route 
 app.get('/', (req, res) => {
     res.json({
-        message: "Welcome to home route "
+        message: "Welcome to home route yaar "
     })
 })
 
